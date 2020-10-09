@@ -53,3 +53,4 @@ class classiFIRE():
             self.w -= step
             _l += 1
         self.__x = None
+        self.__y = None
